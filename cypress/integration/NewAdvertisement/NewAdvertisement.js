@@ -162,7 +162,7 @@ When ('I Post request through API and validate the response',()=> {
                method: 'POST',
                url: "https://admin-advertisement.herokuapp.com/api/advertisements/",
                body: {
-                "_id":"2",
+                "_id":"1",
                 "name":"McMakler",
                 "street":"1",
                 "rooms":"1",
@@ -171,12 +171,11 @@ When ('I Post request through API and validate the response',()=> {
                
                }
           }).then((response) => { 
-                  expect(response.body).has.property("_id","2"); 
+                  expect(response.body).has.property("_id","1"); 
           })
     })
 
     // And ('I Validate the reponse',()=> {
-D
     //   cy.request({
     //        method: 'GET',
     //        url: "https://admin-advertisement.herokuapp.com/api/advertisements/",

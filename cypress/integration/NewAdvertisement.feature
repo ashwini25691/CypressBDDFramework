@@ -94,6 +94,7 @@ Given Open the Url
 When I edit existing Advertisement
 And I clear the Street Name 
 And I clear the Rooms field
+And I clear the price field
 And I type price as "2"
 And I check the checkbox
 And click on Save button

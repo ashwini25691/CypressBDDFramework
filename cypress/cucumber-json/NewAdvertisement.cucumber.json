@@ -23,7 +23,7 @@
             "name": "Open the Url",
             "result": {
               "status": "passed",
-              "duration": 54958000000
+              "duration": 2064000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "Get No of Rows in Table",
             "result": {
               "status": "passed",
-              "duration": 18344000000
+              "duration": 448000000
             }
           },
           {
@@ -42,9 +42,8 @@
             "line": 7,
             "name": "I Post request through API and validate the response",
             "result": {
-              "status": "failed",
-              "duration": 1907000000,
-              "error_message": "AssertionError: Target cannot be null or undefined.\n    at Context.eval (https://admin-advertisement.herokuapp.com/__cypress/tests?p=cypress\\integration\\NewAdvertisement.feature:159:5)"
+              "status": "passed",
+              "duration": 349000000
             }
           },
           {
@@ -53,7 +52,8 @@
             "line": 8,
             "name": "Open the Url",
             "result": {
-              "status": "skipped"
+              "status": "passed",
+              "duration": 1716000000
             }
           },
           {
@@ -62,7 +62,8 @@
             "line": 9,
             "name": "Row is added",
             "result": {
-              "status": "skipped"
+              "status": "passed",
+              "duration": 412000000
             }
           }
         ]
@@ -82,7 +83,7 @@
             "name": "Open the Url",
             "result": {
               "status": "passed",
-              "duration": 11296000000
+              "duration": 2647000000
             }
           },
           {
@@ -92,7 +93,7 @@
             "name": "Get No of Rows in Table",
             "result": {
               "status": "passed",
-              "duration": 516000000
+              "duration": 397000000
             }
           },
           {
@@ -102,7 +103,7 @@
             "name": "I Add New Addvertisement",
             "result": {
               "status": "passed",
-              "duration": 58234000000
+              "duration": 269000000
             }
           },
           {
@@ -112,7 +113,7 @@
             "name": "I type Advertisement Name as \"McMakler Test Automation Challenge\"",
             "result": {
               "status": "passed",
-              "duration": 21249000000
+              "duration": 863000000
             }
           },
           {
@@ -122,7 +123,7 @@
             "name": "I type Street Name as \"123456 Test Automation\"",
             "result": {
               "status": "passed",
-              "duration": 2088000000
+              "duration": 531000000
             }
           },
           {
@@ -132,7 +133,7 @@
             "name": "I type Rooms as \"10\"",
             "result": {
               "status": "passed",
-              "duration": 1335000000
+              "duration": 265000000
             }
           },
           {
@@ -142,7 +143,7 @@
             "name": "I type price as \"1000\"",
             "result": {
               "status": "passed",
-              "duration": 513000000
+              "duration": 310000000
             }
           },
           {
@@ -152,7 +153,7 @@
             "name": "click on Cancel button",
             "result": {
               "status": "passed",
-              "duration": 364000000
+              "duration": 194000000
             }
           },
           {
@@ -162,7 +163,7 @@
             "name": "Validate Confirm dialog box and click on ok button",
             "result": {
               "status": "passed",
-              "duration": 3345000000
+              "duration": 3179000000
             }
           },
           {
@@ -172,7 +173,7 @@
             "name": "Row should not be saved",
             "result": {
               "status": "passed",
-              "duration": 2613000000
+              "duration": 812000000
             }
           }
         ]
@@ -192,7 +193,7 @@
             "name": "Open the Url",
             "result": {
               "status": "passed",
-              "duration": 5875000000
+              "duration": 1470000000
             }
           },
           {
@@ -202,7 +203,7 @@
             "name": "Get No of Rows in Table",
             "result": {
               "status": "passed",
-              "duration": 473000000
+              "duration": 381000000
             }
           },
           {
@@ -212,7 +213,7 @@
             "name": "I Add New Addvertisement",
             "result": {
               "status": "passed",
-              "duration": 734000000
+              "duration": 189000000
             }
           },
           {
@@ -222,7 +223,7 @@
             "name": "I type Advertisement Name as \"McMakler Test Automation Challenge\"",
             "result": {
               "status": "passed",
-              "duration": 1531000000
+              "duration": 847000000
             }
           },
           {
@@ -232,7 +233,7 @@
             "name": "I type Street Name as \"123456 Test Automation\"",
             "result": {
               "status": "passed",
-              "duration": 2270000000
+              "duration": 509000000
             }
           },
           {
@@ -242,7 +243,7 @@
             "name": "I type Rooms as \"10\"",
             "result": {
               "status": "passed",
-              "duration": 342000000
+              "duration": 249000000
             }
           },
           {
@@ -252,7 +253,7 @@
             "name": "I type price as \"1000\"",
             "result": {
               "status": "passed",
-              "duration": 390000000
+              "duration": 294000000
             }
           },
           {
@@ -262,7 +263,7 @@
             "name": "I check the checkbox",
             "result": {
               "status": "passed",
-              "duration": 333000000
+              "duration": 150000000
             }
           },
           {
@@ -272,7 +273,7 @@
             "name": "click on Save button",
             "result": {
               "status": "passed",
-              "duration": 348000000
+              "duration": 182000000
             }
           },
           {
@@ -282,7 +283,7 @@
             "name": "Row is added",
             "result": {
               "status": "passed",
-              "duration": 1381000000
+              "duration": 702000000
             }
           }
         ]
@@ -302,7 +303,7 @@
             "name": "Open the Url",
             "result": {
               "status": "passed",
-              "duration": 1813000000
+              "duration": 1433000000
             }
           },
           {
@@ -312,7 +313,7 @@
             "name": "Get No of Rows in Table",
             "result": {
               "status": "passed",
-              "duration": 398000000
+              "duration": 380000000
             }
           },
           {
@@ -322,7 +323,7 @@
             "name": "I Add New Addvertisement",
             "result": {
               "status": "passed",
-              "duration": 639000000
+              "duration": 171000000
             }
           },
           {
@@ -332,7 +333,7 @@
             "name": "I type Advertisement Name as \"McMakler Test Automation Challenge McMakler Test Automation Challenge\"",
             "result": {
               "status": "passed",
-              "duration": 1718000000
+              "duration": 1345000000
             }
           },
           {
@@ -342,7 +343,7 @@
             "name": "I type Street Name as \"123456 Test Automation\"",
             "result": {
               "status": "passed",
-              "duration": 2216000000
+              "duration": 536000000
             }
           },
           {
@@ -352,7 +353,7 @@
             "name": "I type Rooms as \"10\"",
             "result": {
               "status": "passed",
-              "duration": 333000000
+              "duration": 260000000
             }
           },
           {
@@ -362,7 +363,7 @@
             "name": "I type price as \"1000\"",
             "result": {
               "status": "passed",
-              "duration": 363000000
+              "duration": 312000000
             }
           },
           {
@@ -372,7 +373,7 @@
             "name": "Max Length reached error is displayed for Advertisement Name Field",
             "result": {
               "status": "passed",
-              "duration": 1410000000
+              "duration": 96000000
             }
           },
           {
@@ -382,7 +383,7 @@
             "name": "Save button is disabled",
             "result": {
               "status": "passed",
-              "duration": 69000000
+              "duration": 42000000
             }
           }
         ]
@@ -402,7 +403,7 @@
             "name": "Open the Url",
             "result": {
               "status": "passed",
-              "duration": 5404000000
+              "duration": 1576000000
             }
           },
           {
@@ -412,7 +413,7 @@
             "name": "Get No of Rows in Table",
             "result": {
               "status": "passed",
-              "duration": 444000000
+              "duration": 400000000
             }
           },
           {
@@ -422,7 +423,7 @@
             "name": "I Add New Addvertisement",
             "result": {
               "status": "passed",
-              "duration": 338000000
+              "duration": 185000000
             }
           },
           {
@@ -432,7 +433,7 @@
             "name": "I type Advertisement Name as \"McMakler Test Automation Challenge\"",
             "result": {
               "status": "passed",
-              "duration": 1101000000
+              "duration": 875000000
             }
           },
           {
@@ -442,7 +443,7 @@
             "name": "I type Street Name as \"123456 Test Automation\"",
             "result": {
               "status": "passed",
-              "duration": 653000000
+              "duration": 524000000
             }
           },
           {
@@ -452,7 +453,7 @@
             "name": "I type Rooms as \"abc\"",
             "result": {
               "status": "passed",
-              "duration": 328000000
+              "duration": 276000000
             }
           },
           {
@@ -462,7 +463,7 @@
             "name": "I Validate Room Field \"\"",
             "result": {
               "status": "passed",
-              "duration": 109000000
+              "duration": 59000000
             }
           }
         ]
@@ -482,7 +483,7 @@
             "name": "Open the Url",
             "result": {
               "status": "passed",
-              "duration": 2490000000
+              "duration": 1630000000
             }
           },
           {
@@ -492,7 +493,7 @@
             "name": "Get No of Rows in Table",
             "result": {
               "status": "passed",
-              "duration": 447000000
+              "duration": 372000000
             }
           },
           {
@@ -502,7 +503,7 @@
             "name": "I Add New Addvertisement",
             "result": {
               "status": "passed",
-              "duration": 465000000
+              "duration": 193000000
             }
           },
           {
@@ -512,7 +513,7 @@
             "name": "I type Advertisement Name as \"McMakler Test Automation Challenge\"",
             "result": {
               "status": "passed",
-              "duration": 1191000000
+              "duration": 828000000
             }
           },
           {
@@ -522,7 +523,7 @@
             "name": "I type Street Name as \"123456 Test Automation\"",
             "result": {
               "status": "passed",
-              "duration": 738000000
+              "duration": 518000000
             }
           },
           {
@@ -532,7 +533,7 @@
             "name": "I type Rooms as \"1.0\"",
             "result": {
               "status": "passed",
-              "duration": 424000000
+              "duration": 266000000
             }
           },
           {
@@ -542,7 +543,7 @@
             "name": "I Validate Room Field \"1.0\"",
             "result": {
               "status": "passed",
-              "duration": 137000000
+              "duration": 57000000
             }
           }
         ]
@@ -562,7 +563,7 @@
             "name": "Open the Url",
             "result": {
               "status": "passed",
-              "duration": 3493000000
+              "duration": 1721000000
             }
           },
           {
@@ -572,7 +573,7 @@
             "name": "Get No of Rows in Table",
             "result": {
               "status": "passed",
-              "duration": 465000000
+              "duration": 442000000
             }
           },
           {
@@ -582,7 +583,7 @@
             "name": "I Add New Addvertisement",
             "result": {
               "status": "passed",
-              "duration": 1098000000
+              "duration": 312000000
             }
           },
           {
@@ -592,7 +593,7 @@
             "name": "I type Advertisement Name as \"McMakler Test Automation Challenge\"",
             "result": {
               "status": "passed",
-              "duration": 1058000000
+              "duration": 838000000
             }
           },
           {
@@ -602,7 +603,7 @@
             "name": "I type Street Name as \"123456 Test Automation\"",
             "result": {
               "status": "passed",
-              "duration": 649000000
+              "duration": 538000000
             }
           },
           {
@@ -612,7 +613,7 @@
             "name": "I type Rooms as \"10\"",
             "result": {
               "status": "passed",
-              "duration": 329000000
+              "duration": 281000000
             }
           },
           {
@@ -622,7 +623,7 @@
             "name": "I type price as \"1000\"",
             "result": {
               "status": "passed",
-              "duration": 352000000
+              "duration": 293000000
             }
           },
           {
@@ -632,7 +633,7 @@
             "name": "click on Save button",
             "result": {
               "status": "passed",
-              "duration": 466000000
+              "duration": 250000000
             }
           },
           {
@@ -642,7 +643,7 @@
             "name": "Row is added",
             "result": {
               "status": "passed",
-              "duration": 639000000
+              "duration": 768000000
             }
           },
           {
@@ -652,7 +653,7 @@
             "name": "I Validate the Advertisement Status \"Inactive\"",
             "result": {
               "status": "passed",
-              "duration": 158000000
+              "duration": 120000000
             }
           }
         ]
@@ -672,7 +673,7 @@
             "name": "Open the Url",
             "result": {
               "status": "passed",
-              "duration": 18301000000
+              "duration": 1430000000
             }
           },
           {
@@ -682,7 +683,7 @@
             "name": "Get No of Rows in Table",
             "result": {
               "status": "passed",
-              "duration": 464000000
+              "duration": 375000000
             }
           },
           {
@@ -692,7 +693,7 @@
             "name": "I Add New Addvertisement",
             "result": {
               "status": "passed",
-              "duration": 338000000
+              "duration": 202000000
             }
           },
           {
@@ -702,7 +703,7 @@
             "name": "I type Advertisement Name as \"McMakler Test Automation Challenge\"",
             "result": {
               "status": "passed",
-              "duration": 960000000
+              "duration": 851000000
             }
           },
           {
@@ -712,7 +713,7 @@
             "name": "I type Street Name as \"123456 Test Automation\"",
             "result": {
               "status": "passed",
-              "duration": 630000000
+              "duration": 652000000
             }
           },
           {
@@ -722,7 +723,7 @@
             "name": "I type Rooms as \"1.0\"",
             "result": {
               "status": "passed",
-              "duration": 338000000
+              "duration": 284000000
             }
           },
           {
@@ -732,7 +733,7 @@
             "name": "I type price as \"abcd\"",
             "result": {
               "status": "passed",
-              "duration": 994000000
+              "duration": 298000000
             }
           },
           {
@@ -742,7 +743,7 @@
             "name": "I check the checkbox",
             "result": {
               "status": "passed",
-              "duration": 226000000
+              "duration": 185000000
             }
           },
           {
@@ -752,7 +753,7 @@
             "name": "I Validate price Field error message",
             "result": {
               "status": "passed",
-              "duration": 129000000
+              "duration": 86000000
             }
           }
         ]
@@ -772,7 +773,7 @@
             "name": "Open the Url",
             "result": {
               "status": "passed",
-              "duration": 6397000000
+              "duration": 4467000000
             }
           },
           {
@@ -782,7 +783,7 @@
             "name": "I edit existing Advertisement",
             "result": {
               "status": "passed",
-              "duration": 1073000000
+              "duration": 630000000
             }
           },
           {
@@ -792,7 +793,7 @@
             "name": "I clear the Street Name",
             "result": {
               "status": "passed",
-              "duration": 902000000
+              "duration": 636000000
             }
           },
           {
@@ -802,46 +803,57 @@
             "name": "I clear the Rooms field",
             "result": {
               "status": "passed",
-              "duration": 308000000
+              "duration": 279000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 97,
-            "name": "I type price as \"2\"",
+            "name": "I clear the price field",
             "result": {
               "status": "passed",
-              "duration": 302000000
+              "duration": 264000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 98,
-            "name": "I check the checkbox",
+            "name": "I type price as \"2\"",
             "result": {
               "status": "passed",
-              "duration": 232000000
+              "duration": 151000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 99,
+            "name": "I check the checkbox",
+            "result": {
+              "status": "passed",
+              "duration": 149000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 100,
             "name": "click on Save button",
             "result": {
-              "status": "failed",
-              "error_message": "CypressError: Timed out retrying after 4050ms: `cy.click()` failed because this element is `disabled`:\n\n`<button class=\"md-primary md-button\" type=\"button\" ng-transclude=\"\" md-no-ink=\"\" ng-disabled=\"$ctrl.disableSave\" ng-click=\"$ctrl.saveAdvertisementDetails()\" disabled=\"disabled\">...</button>`\n\nFix this problem, or use `{force: true}` to disable error checking.\n    at $Cy.ensureNotDisabled (https://admin-advertisement.herokuapp.com/__cypress/runner/cypress_runner.js:163868:76)\n    at runAllChecks (https://admin-advertisement.herokuapp.com/__cypress/runner/cypress_runner.js:150539:14)\n    at retryActionability (https://admin-advertisement.herokuapp.com/__cypress/runner/cypress_runner.js:150616:16)\nFrom previous event:\n    at whenStable (https://admin-advertisement.herokuapp.com/__cypress/runner/cypress_runner.js:168808:63)\n    at https://admin-advertisement.herokuapp.com/__cypress/runner/cypress_runner.js:168305:14\nFrom Your Spec Code:\n    at Context.eval (https://admin-advertisement.herokuapp.com/__cypress/tests?p=cypress\\integration\\NewAdvertisement.feature:76:65)\n    at Context.resolveAndRunStepDefinition (https://admin-advertisement.herokuapp.com/__cypress/tests?p=cypress\\integration\\NewAdvertisement.feature:10570:29)\n    at Context.eval (https://admin-advertisement.herokuapp.com/__cypress/tests?p=cypress\\integration\\NewAdvertisement.feature:9891:35)"
+              "status": "passed",
+              "duration": 174000000
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "line": 100,
+            "line": 101,
             "name": "Row is saved successfully",
             "result": {
-              "status": "skipped"
+              "status": "passed",
+              "duration": 22000000
             }
           }
         ]
@@ -849,7 +861,7 @@
       {
         "id": "new-advertisement;edit-existing-advertisement-and-cancel-the-changes",
         "keyword": "Scenario",
-        "line": 102,
+        "line": 103,
         "name": "Edit existing Advertisement and Cancel the changes",
         "tags": [],
         "type": "scenario",
@@ -857,81 +869,91 @@
           {
             "arguments": [],
             "keyword": "Given ",
-            "line": 104,
+            "line": 105,
             "name": "Open the Url",
             "result": {
               "status": "passed",
-              "duration": 2244000000
+              "duration": 1756000000
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
-            "line": 105,
+            "line": 106,
             "name": "I edit existing Advertisement",
             "result": {
               "status": "passed",
-              "duration": 1048000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 106,
-            "name": "I clear the Street Name",
-            "result": {
-              "status": "passed",
-              "duration": 1189000000
+              "duration": 667000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 107,
-            "name": "I clear the Rooms field",
+            "name": "I clear the Street Name",
             "result": {
               "status": "passed",
-              "duration": 389000000
+              "duration": 500000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 108,
-            "name": "I type price as \"2\"",
+            "name": "I clear the Rooms field",
             "result": {
               "status": "passed",
-              "duration": 373000000
+              "duration": 280000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 109,
-            "name": "click on Cancel button",
+            "name": "I clear the price field",
             "result": {
               "status": "passed",
-              "duration": 299000000
+              "duration": 266000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 110,
+            "name": "I type price as \"2\"",
+            "result": {
+              "status": "passed",
+              "duration": 150000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 111,
+            "name": "click on Cancel button",
+            "result": {
+              "status": "passed",
+              "duration": 175000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 112,
             "name": "Validate Confirm dialog box and click on cancel button",
             "result": {
               "status": "passed",
-              "duration": 330000000
+              "duration": 187000000
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "line": 111,
+            "line": 113,
             "name": "Edit Advertisement page should only be displayed",
             "result": {
               "status": "passed",
-              "duration": 55000000
+              "duration": 33000000
             }
           }
         ]
